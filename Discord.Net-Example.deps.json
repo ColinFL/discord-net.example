@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.0/alpine-x64",
+    "name": ".NETCoreApp,Version=v2.0/linux-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {},
-    ".NETCoreApp,Version=v2.0/alpine-x64": {
+    ".NETCoreApp,Version=v2.0/linux-x64": {
       "Discord.Net-Example/1.0.0": {
         "dependencies": {
           "Discord.Net": "2.0.1",
